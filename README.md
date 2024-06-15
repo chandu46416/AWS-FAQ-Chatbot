@@ -11,7 +11,6 @@ Welcome to the AWS FAQ Chatbot! This is a simple chatbot designed to answer ques
 - [Dataset](#dataset)
 - [How It Works](#how-it-works)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -38,12 +37,7 @@ The AWS FAQ Chatbot uses machine learning to respond to user queries about AWS. 
 
 ## Usage
 
-1. **Run the Chatbot:**
-    ```bash
-    python chatbot.py
-    ```
-
-2. **Interact with the Chatbot:**
+. **Interact with the Chatbot:**
     - The chatbot will greet you and prompt you to ask any AWS-related questions.
     - Type your question and press Enter to get a response.
     - Type `stop` and press Enter to exit the chatbot.
