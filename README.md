@@ -17,13 +17,6 @@ Welcome to the AWS FAQ Chatbot! This is a simple chatbot designed to answer ques
 
 The AWS FAQ Chatbot uses machine learning to respond to user queries about AWS. It leverages a dataset of frequently asked questions and their answers, transforming them into TF-IDF vectors and computing cosine similarity to find the best match for user queries.
 
-## Project Structure
-
-- `AWS_FAQ_Bot.csv`: The dataset containing AWS-related questions and answers.
-- `chatbot.py`: The main script for running the chatbot.
-- `README.md`: This file.
-- `requirements.txt`: The dependencies required for the project.
-
 ## Installation
 
 1. **Clone the Repository:**
